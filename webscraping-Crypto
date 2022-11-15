@@ -39,6 +39,9 @@ for row in table_rows[1:6]:
     print()
     input()
 
+
+#Text Message Section
+
 import keys2
 from twilio.rest import Client
 
