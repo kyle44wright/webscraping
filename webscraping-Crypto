@@ -37,7 +37,7 @@ for row in table_rows[1:6]:
     print(f"Daily Adjusted Price: ${changed_price}")
     print()
     print()
-
+    input()
 
 import keys2
 from twilio.rest import Client
